@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:03:34.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="G4ZRL3lp7nBCVw3Rb7Yd" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:06:16.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="G93L6xAIOqOUdRNBTjCj" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="2816" dy="450" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -227,6 +227,9 @@
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-39" value="Partition 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="24a-mGjXgg-N6J_SjT-v-36">
           <mxGeometry y="78" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-41" value="Contains data of social media" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1078" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
