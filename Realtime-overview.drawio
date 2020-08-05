@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T15:56:01.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="VzJQp9P08BZVFGvNyf1w" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T15:59:23.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="qwsuUVe3456tNiiQYl5n" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="868" dy="484" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -212,6 +212,18 @@
             <mxPoint x="343" y="1023" as="sourcePoint" />
             <mxPoint x="393" y="973" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-36" value="Topic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="896" width="94" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-37" value="Partition 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="24a-mGjXgg-N6J_SjT-v-36">
+          <mxGeometry y="26" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-38" value="Partition 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="24a-mGjXgg-N6J_SjT-v-36">
+          <mxGeometry y="52" width="94" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-39" value="Partition 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="24a-mGjXgg-N6J_SjT-v-36">
+          <mxGeometry y="78" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
