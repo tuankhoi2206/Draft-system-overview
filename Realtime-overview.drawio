@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T04:35:52.969Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="OVxKPGtlqX6BeJX7IG0j" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T04:39:59.133Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9jUQLtH73AdiRw6lesX9" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="988" dy="548" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,33 @@
         </mxCell>
         <mxCell id="u7dPjCdoEQU-WYultVdr-92" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="623" y="224" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-93" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="707" y="182.2" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-94" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="161" as="sourcePoint" />
+            <mxPoint x="370" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-96" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="161" as="sourcePoint" />
+            <mxPoint x="370" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-97" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266" y="190" as="sourcePoint" />
+            <mxPoint x="316" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-98" value="" style="endArrow=classic;html=1;exitX=0.601;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u7dPjCdoEQU-WYultVdr-81" target="u7dPjCdoEQU-WYultVdr-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613" y="260" as="sourcePoint" />
+            <mxPoint x="663" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
