@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T04:40:21.425Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="X-SxAqjoJ0ZfZQgaRghC" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T04:42:09.170Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="fCFF4lizS8NfzIQTd-Js" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="988" dy="548" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,10 +82,19 @@
             <mxPoint x="370" y="161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u7dPjCdoEQU-WYultVdr-98" value="" style="endArrow=classic;html=1;exitX=0.601;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u7dPjCdoEQU-WYultVdr-81" target="u7dPjCdoEQU-WYultVdr-93">
+        <mxCell id="u7dPjCdoEQU-WYultVdr-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="u7dPjCdoEQU-WYultVdr-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="613" y="260" as="sourcePoint" />
+            <mxPoint x="597" y="258" as="sourcePoint" />
             <mxPoint x="663" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-99" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Tablet.svg;" vertex="1" parent="1">
+          <mxGeometry x="707" y="280" width="27" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-100" value="" style="endArrow=classic;html=1;entryX=-0.066;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u7dPjCdoEQU-WYultVdr-81" target="u7dPjCdoEQU-WYultVdr-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="627" y="280" as="sourcePoint" />
+            <mxPoint x="677" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
