@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:36:55.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="tptZAF9bwvMRR9WeMpUI" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:41:09.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="3NvFpkHPkYgJHeP0DFSC" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="2816" dy="450" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -240,20 +240,32 @@
         <mxCell id="24a-mGjXgg-N6J_SjT-v-46" value="&lt;span style=&quot;color: rgb(41 , 43 , 44) ; font-family: &amp;#34;open sans&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Xử lý dữ liệu theo thời gian thực (real-time data processing): Sử dụng đồng thời Kafka và Spark cho giải pháp streaming.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-28" y="1225" width="399" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-50" value="Apache Spark" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1526" width="120" height="60" as="geometry" />
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-50" value="Apache Spark" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="1526" width="196" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-52" value="&lt;span&gt;Analysis&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1358" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-53" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-52">
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-53" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399" y="1527" as="sourcePoint" />
+            <mxPoint x="293" y="1413" as="sourcePoint" />
             <mxPoint x="294" y="1519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-55" value="Data processing" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="1477" width="143" height="69" as="geometry" />
+          <mxGeometry x="77" y="1457" width="143" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-58" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="1730" as="sourcePoint" />
+            <mxPoint x="300" y="1666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-59" target="24a-mGjXgg-N6J_SjT-v-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-59" value="Results (No SQL - MongoDB)" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="201" y="1673" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-63" value="&lt;span&gt;Analysis&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1351" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
