@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:06:16.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="G93L6xAIOqOUdRNBTjCj" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:09:40.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="IwxWPZG78sqqCcH1Slk1" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="2816" dy="450" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -153,8 +153,8 @@
             <mxPoint x="232" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-9" value="Messag Queue&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="354" y="854" width="140" height="60" as="geometry" />
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-9" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="354" y="840" width="150" height="74" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-14" value="" style="endArrow=classic;html=1;entryX=-0.007;entryY=0.217;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="24a-mGjXgg-N6J_SjT-v-9" source="24a-mGjXgg-N6J_SjT-v-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,16 +201,16 @@
         <mxCell id="24a-mGjXgg-N6J_SjT-v-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="383" y="988" as="sourcePoint" />
-            <mxPoint x="425" y="917" as="targetPoint" />
+            <mxPoint x="434" y="917" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-26" value="Topic Weibo&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="467" y="1127" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-26" target="24a-mGjXgg-N6J_SjT-v-9">
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="397" y="1065" as="sourcePoint" />
-            <mxPoint x="447" y="1015" as="targetPoint" />
+            <mxPoint x="434" y="914" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-40" value="Producer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
