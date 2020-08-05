@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:16:03.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="JOQJqwq7OOf4J9fOGymH" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:18:20.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="3ax2qONxKEcLibBWtmEp" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="2816" dy="450" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -233,6 +233,9 @@
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-44" value="&lt;a href=&quot;https://edwardthienhoang.wordpress.com/2020/05/04/system-design-co-ban-phan-16-message-broker/&quot;&gt;https://edwardthienhoang.wordpress.com/2020/05/04/system-design-co-ban-phan-16-message-broker/&lt;/a&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="1169" width="364" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-45" value="Message Borker" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="791" width="115" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
