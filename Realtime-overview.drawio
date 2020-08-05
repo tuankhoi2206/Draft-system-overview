@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T04:23:46.508Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="cqzz-InW_4fcxBWCPZtl" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T04:25:50.670Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="jt59oBssZW3qVm2rnyLh" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="840" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u7dPjCdoEQU-WYultVdr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u7dPjCdoEQU-WYultVdr-1" target="u7dPjCdoEQU-WYultVdr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u7dPjCdoEQU-WYultVdr-1" value="ws://stream.meetup.com/2/rsvps" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="20" width="240" height="80" as="geometry" />
+          <mxGeometry x="10" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u7dPjCdoEQU-WYultVdr-2" value="Messag Queue&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="140" height="60" as="geometry" />
+          <mxGeometry x="240" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-3" value="Colelction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u7dPjCdoEQU-WYultVdr-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u7dPjCdoEQU-WYultVdr-3" target="u7dPjCdoEQU-WYultVdr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="sourcePoint" />
+            <mxPoint x="190" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
