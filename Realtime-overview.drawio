@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T04:55:10.186Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="WYLgm-L-MJxPQ_7zDwPn" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T04:55:41.898Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0owp7AwXsKcd6O9lCpeO" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="988" dy="548" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="u7dPjCdoEQU-WYultVdr-116" value="Client will subscribe to channel&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="473" y="399" width="154" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="u7dPjCdoEQU-WYultVdr-117" value="Server will publish message when new data available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u7dPjCdoEQU-WYultVdr-117" value="Server will publish message when new data is available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126" y="427" width="203" height="20" as="geometry" />
         </mxCell>
       </root>
