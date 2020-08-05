@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:30:45.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="GQY4qJWSGvMoc-_K_DYD" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:35:02.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="eJzR3IwMltpeHP7u_c1A" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="2816" dy="450" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -239,6 +239,18 @@
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-46" value="&lt;span style=&quot;color: rgb(41 , 43 , 44) ; font-family: &amp;#34;open sans&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Xử lý dữ liệu theo thời gian thực (real-time data processing): Sử dụng đồng thời Kafka và Spark cho giải pháp streaming.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-28" y="1225" width="399" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-50" value="Apache Spark" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1526" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-52" value="&lt;span&gt;Analysis&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="1386" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-53" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24a-mGjXgg-N6J_SjT-v-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="1527" as="sourcePoint" />
+            <mxPoint x="294" y="1519" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
