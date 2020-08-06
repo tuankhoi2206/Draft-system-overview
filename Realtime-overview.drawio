@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:20:01.932Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="RTX07CJW_ofX7oURHciC" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:20:24.168Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Jzhnv4xlcbVZwxyQbwKx" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
             <mxPoint x="139.5" y="1936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-5" value="" style="endArrow=classic;html=1;entryX=0.007;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uCAJaLIvxssrV7Yk87P6-1">
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-5" value="" style="endArrow=classic;html=1;entryX=0.007;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="uCAJaLIvxssrV7Yk87P6-1" source="uCAJaLIvxssrV7Yk87P6-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="42.5" y="2053" as="sourcePoint" />
             <mxPoint x="77.5" y="1974" as="targetPoint" />
@@ -333,23 +333,8 @@
         <mxCell id="uCAJaLIvxssrV7Yk87P6-20" value="Contains data of social media" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="2128" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-21" value="Message Borker" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="1841" width="115" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-22" value="Create Post with Tags" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="49" y="1827" width="122" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-16" value="Topic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="558" y="1988" width="94" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-17" value="Partition 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uCAJaLIvxssrV7Yk87P6-16">
-          <mxGeometry y="26" width="94" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-18" value="Partition 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uCAJaLIvxssrV7Yk87P6-16">
-          <mxGeometry y="52" width="94" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-19" value="Partition 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uCAJaLIvxssrV7Yk87P6-16">
-          <mxGeometry y="78" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
