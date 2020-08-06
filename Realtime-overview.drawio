@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:22:05.188Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="QL_5J5XDe9iv_ivVrnpy" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:24:01.431Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tSokZSAnJk0hIbPQkDQn" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u7dPjCdoEQU-WYultVdr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="u7dPjCdoEQU-WYultVdr-1" target="u7dPjCdoEQU-WYultVdr-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u7dPjCdoEQU-WYultVdr-1" value="ws://stream.meetup.com/2/rsvps" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="14" width="240" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="u7dPjCdoEQU-WYultVdr-2" value="Messag Queue&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="307" y="274" width="140" height="60" as="geometry" />
         </mxCell>
@@ -127,30 +121,30 @@
           <mxGeometry x="126" y="427" width="203" height="20" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-1" value="Facebook" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="10" y="112" width="89" height="94" as="geometry" />
+          <mxGeometry x="42.5" y="25" width="89" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="u7dPjCdoEQU-WYultVdr-3" edge="1">
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="u7dPjCdoEQU-WYultVdr-3" edge="1" source="24a-mGjXgg-N6J_SjT-v-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="98" y="168" as="sourcePoint" />
             <mxPoint x="148" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-3" value="Twitter" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="10" y="223" width="89" height="94" as="geometry" />
+          <mxGeometry x="6" y="134" width="89" height="94" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-4" value="Weibo" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="119" y="274" width="89" height="94" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="u7dPjCdoEQU-WYultVdr-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="267" as="sourcePoint" />
+            <mxPoint x="98" y="189" as="sourcePoint" />
             <mxPoint x="155" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24a-mGjXgg-N6J_SjT-v-7" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="u7dPjCdoEQU-WYultVdr-3" edge="1">
+        <mxCell id="24a-mGjXgg-N6J_SjT-v-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="182" y="273" as="sourcePoint" />
-            <mxPoint x="232" y="223" as="targetPoint" />
+            <mxPoint x="161" y="273" as="sourcePoint" />
+            <mxPoint x="182" y="194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-9" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
@@ -241,31 +235,31 @@
           <mxGeometry x="-28" y="1225" width="399" height="32" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-50" value="Apache Spark" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="203" y="1526" width="196" height="60" as="geometry" />
+          <mxGeometry x="-11" y="1491" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-53" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293" y="1413" as="sourcePoint" />
-            <mxPoint x="294" y="1519" as="targetPoint" />
+            <mxPoint x="79" y="1378" as="sourcePoint" />
+            <mxPoint x="80" y="1484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-55" value="Data processing" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="1457" width="143" height="69" as="geometry" />
+          <mxGeometry x="-137" y="1422" width="143" height="69" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-58" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="24a-mGjXgg-N6J_SjT-v-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399" y="1730" as="sourcePoint" />
-            <mxPoint x="300" y="1666" as="targetPoint" />
+            <mxPoint x="185" y="1695" as="sourcePoint" />
+            <mxPoint x="86" y="1631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="24a-mGjXgg-N6J_SjT-v-59" target="24a-mGjXgg-N6J_SjT-v-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-59" value="Results (No SQL - MongoDB)" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="201" y="1673" width="200" height="80" as="geometry" />
+          <mxGeometry x="-13" y="1638" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-63" value="&lt;span&gt;Analysis&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="234" y="1351" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="1316" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-1" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="301" y="1890" width="150" height="74" as="geometry" />
@@ -335,6 +329,12 @@
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-22" value="Create Post with Tags" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="49" y="1827" width="122" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-25" value="Apache Spark" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1854.5" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-26" value="Data processing" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="1785.5" width="143" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
