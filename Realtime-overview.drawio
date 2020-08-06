@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T07:12:37.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="C7sR1TWjgqpkNTbMlB0W" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T07:22:56.098Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="4wfpLk8CtbhBX_zBuhtM" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="762" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -371,6 +371,57 @@
         </mxCell>
         <mxCell id="2-kWuxi5lFnrXSgUYIgP-3" value="Compute sentiment in each data tweet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="1554" width="169" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-4" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5.5" y="2285" width="150" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2-kWuxi5lFnrXSgUYIgP-9" target="2-kWuxi5lFnrXSgUYIgP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-324" y="2356" as="sourcePoint" />
+            <mxPoint x="-235" y="2352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-9" value="Tweet" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="2275" width="89" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-11" value="Collect Data&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7" y="2243" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-12" value="Topic &lt;br&gt;social post Facebook" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="2404" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-13" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2-kWuxi5lFnrXSgUYIgP-4" target="2-kWuxi5lFnrXSgUYIgP-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="48.5" y="2517" as="sourcePoint" />
+            <mxPoint x="98.5" y="2467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-14" value="Topic Twitter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="2495" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2-kWuxi5lFnrXSgUYIgP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34.5" y="2433" as="sourcePoint" />
+            <mxPoint x="85.5" y="2362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-16" value="Topic Weibo&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="2572" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2-kWuxi5lFnrXSgUYIgP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="48.5" y="2510" as="sourcePoint" />
+            <mxPoint x="85.5" y="2359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-18" value="Contains data of social media" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-14.5" y="2541" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-19" value="Create Post with Tags" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="2198" width="122" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2-kWuxi5lFnrXSgUYIgP-20" value="Send Push Notification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-196" y="2673" width="203" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
