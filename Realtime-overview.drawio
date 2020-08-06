@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T02:00:39.765Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7CXRDsOtXhaMPWM0t4Na" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T02:02:27.021Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="452esgNnYlOcHhmEzamW" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -354,8 +354,8 @@
         <mxCell id="uCAJaLIvxssrV7Yk87P6-38" value="Consumer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="1736" width="66" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-40" value="In-memory" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="721" y="1449" width="126" height="43" as="geometry" />
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-40" value="In-memory&lt;br&gt;Real time data&lt;br&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="756" y="1407" width="126" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
