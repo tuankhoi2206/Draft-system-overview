@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:38:01.950Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="EJczJwFZL7Y8_rt6GVB3" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:40:42.347Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="V-5PJ9pQKmGKBkWJ_3Ba" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -338,6 +338,9 @@
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-34" value="Send Push Notification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1846.5" width="203" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-35" value="Create Post records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="598" y="1540" width="122" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
