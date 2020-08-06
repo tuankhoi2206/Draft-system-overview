@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T02:02:27.021Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="452esgNnYlOcHhmEzamW" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T02:03:03.838Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="cSF814ySAczl5hiHGIzm" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           <mxGeometry x="484" y="791" width="115" height="43" as="geometry" />
         </mxCell>
         <mxCell id="24a-mGjXgg-N6J_SjT-v-46" value="&lt;span style=&quot;color: rgb(41 , 43 , 44) ; font-family: &amp;#34;open sans&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Xử lý dữ liệu theo thời gian thực (real-time data processing): Sử dụng đồng thời Kafka và Spark cho giải pháp streaming.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="1225" width="399" height="32" as="geometry" />
+          <mxGeometry x="334.5" y="1268.5" width="399" height="32" as="geometry" />
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-1" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="61.5" y="1476.5" width="150" height="74" as="geometry" />
