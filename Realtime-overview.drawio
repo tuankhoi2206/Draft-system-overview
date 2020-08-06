@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:46:32.975Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="XQdaig_osfqzCIcVazHO" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:50:27.168Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="frcKXKfi7NwCwi1Cwa7k" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -344,6 +344,12 @@
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-36" value="luồng dữ liệu liên tục từ đầu vào&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="773" y="1267" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-37" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.376;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCAJaLIvxssrV7Yk87P6-25" target="uCAJaLIvxssrV7Yk87P6-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="1583" as="sourcePoint" />
+            <mxPoint x="379" y="1533" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
