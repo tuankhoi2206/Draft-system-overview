@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T02:04:19.869Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="3b5ZlYxD79qqlIHyy3mG" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T02:12:46.361Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="k-fbiaYS-KQ6EUgQubmI" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -356,6 +356,9 @@
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-40" value="&lt;ul&gt;&lt;li&gt;In-memory&lt;/li&gt;&lt;li&gt;Real time data&lt;/li&gt;&lt;li&gt;Divide mini batch data&lt;/li&gt;&lt;/ul&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="756" y="1393" width="175" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-41" value="&lt;a href=&quot;https://www.leggetter.co.uk/real-time-web-technologies-guide/&quot;&gt;https://www.leggetter.co.uk/real-time-web-technologies-guide/&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-311.5" y="2030" width="248.5" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
