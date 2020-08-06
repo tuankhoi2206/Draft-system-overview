@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:40:50.293Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="FCs-RNFffUxGxgirAdF0" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:46:32.975Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="XQdaig_osfqzCIcVazHO" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -341,6 +341,9 @@
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-35" value="Create Post records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="651" y="1526" width="122" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-36" value="luồng dữ liệu liên tục từ đầu vào&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1267" width="130" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
