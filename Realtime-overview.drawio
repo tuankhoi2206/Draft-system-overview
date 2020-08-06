@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T01:19:12.345Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="fMCAn6XcNASKVWiBn5uv" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T01:20:01.932Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="RTX07CJW_ofX7oURHciC" version="13.5.9" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -336,8 +336,8 @@
         <mxCell id="uCAJaLIvxssrV7Yk87P6-21" value="Message Borker" style="shape=note;size=20;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="1841" width="115" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="uCAJaLIvxssrV7Yk87P6-22" value="Create with Post&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="18" y="1896" width="81" height="40" as="geometry" />
+        <mxCell id="uCAJaLIvxssrV7Yk87P6-22" value="Create Post with Tags" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1827" width="122" height="46" as="geometry" />
         </mxCell>
         <mxCell id="uCAJaLIvxssrV7Yk87P6-16" value="Topic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="558" y="1988" width="94" height="104" as="geometry" />
