@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T06:48:11.832Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="zX15VktNEf9mtsMA97Q_" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T06:57:52.078Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="p3fy4ETFlY_SJyEAahOc" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
-    <mxGraphModel dx="2997" dy="777" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3151" dy="777" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,16 +466,31 @@
           <mxGeometry x="-441" y="2821" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hFV85xr7uH7SJprDEmjW-10" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-89" y="3101" width="120" height="53" as="geometry" />
+          <mxGeometry x="327" y="2856" width="120" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="hFV85xr7uH7SJprDEmjW-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hFV85xr7uH7SJprDEmjW-5">
+        <mxCell id="hFV85xr7uH7SJprDEmjW-12" value="" style="endArrow=classic;html=1;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.017;exitY=0.642;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hFV85xr7uH7SJprDEmjW-10" target="hFV85xr7uH7SJprDEmjW-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-29" y="3101" as="sourcePoint" />
             <mxPoint x="21" y="3051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hFV85xr7uH7SJprDEmjW-13" value="Listener" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14.5" y="3031" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="2841" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-14" value="add-friend-topic" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3045" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="3031" width="97" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-16" value="Socket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="3150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hFV85xr7uH7SJprDEmjW-10" target="hFV85xr7uH7SJprDEmjW-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="3249" as="sourcePoint" />
+            <mxPoint x="148" y="3199" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
