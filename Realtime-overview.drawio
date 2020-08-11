@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T04:40:44.869Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="G56bgQigD6s7hDWbNRtx" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T04:42:55.430Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="GV95Ypkb9k1LLvOysffH" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-1" value="Case 2: User typing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-434" y="3297" width="147" height="20" as="geometry" />
+          <mxGeometry x="-427" y="3311" width="133" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-2" value="Message Queue&lt;br&gt;&amp;nbsp;Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-76.5" y="3353" width="150" height="74" as="geometry" />
