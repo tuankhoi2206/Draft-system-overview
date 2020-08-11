@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T06:24:31.221Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JEEbLIjhNYSSvuDEYX7B" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T06:50:38.891Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="8If0AlE-WUv_yNOjoiKr" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -542,6 +542,9 @@
         </mxCell>
         <mxCell id="hFV85xr7uH7SJprDEmjW-19" value="Redis" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="329" y="3493" width="97" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-20" value="&lt;div&gt;&amp;nbsp;- một trang page sẽ có một topic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- user kết nối channel socket lắng nghe trên topic kafka id.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="3654" width="249" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
