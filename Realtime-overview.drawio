@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T06:50:38.891Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="8If0AlE-WUv_yNOjoiKr" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T07:03:27.635Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="miSarnCOQ4olBY6VI0-W" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
-    <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3151" dy="777" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,6 +545,9 @@
         </mxCell>
         <mxCell id="hFV85xr7uH7SJprDEmjW-20" value="&lt;div&gt;&amp;nbsp;- một trang page sẽ có một topic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- user kết nối channel socket lắng nghe trên topic kafka id.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-88" y="3654" width="249" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-21" value="The subscription command contains a Trello model type (board, member, organization, card), and its respective model id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="56" y="3745" width="317" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
