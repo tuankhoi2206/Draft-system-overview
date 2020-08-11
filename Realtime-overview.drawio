@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T06:23:55.702Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="oIjwEg8aoWaCbfoTOET7" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T06:24:31.221Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JEEbLIjhNYSSvuDEYX7B" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
-    <mxGraphModel dx="3151" dy="777" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -517,7 +517,7 @@
           <mxGeometry x="-428" y="3360" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-8" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3395" width="120" height="53" as="geometry" />
+          <mxGeometry x="582.25" y="3311" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-9" value="" style="endArrow=classic;html=1;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.017;exitY=0.642;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UDE9wlmH0UndHr5xgx2V-8" target="UDE9wlmH0UndHr5xgx2V-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -529,16 +529,19 @@
           <mxGeometry x="223" y="3380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-13" value="Socket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340.5" y="3689" width="120" height="70" as="geometry" />
+          <mxGeometry x="582.75" y="3605" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDE9wlmH0UndHr5xgx2V-8" target="UDE9wlmH0UndHr5xgx2V-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="111" y="3788" as="sourcePoint" />
-            <mxPoint x="161" y="3738" as="targetPoint" />
+            <mxPoint x="353.25" y="3704" as="sourcePoint" />
+            <mxPoint x="403.25" y="3654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UDE9wlmH0UndHr5xgx2V-17" value="&lt;b&gt;Note:&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Create a topic when user create a page.&lt;br&gt;&amp;nbsp;- User join to a page ,that mean user subscribe to the page-topic." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-238" y="3512" width="245" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hFV85xr7uH7SJprDEmjW-19" value="Redis" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="329" y="3493" width="97" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
