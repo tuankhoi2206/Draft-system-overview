@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T04:42:55.430Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="GV95Ypkb9k1LLvOysffH" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T04:52:57.576Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ogstIawJxiBG8DKBybVO" version="13.6.0" type="github">
   <diagram id="zB4D0Zn1a5sWIB_5QHZO" name="Page-1">
     <mxGraphModel dx="3342" dy="794" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -534,8 +534,8 @@
             <mxPoint x="161" y="3738" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDE9wlmH0UndHr5xgx2V-17" value="&lt;b&gt;Note:&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Create a topic when user create a page." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-178" y="3512" width="150" height="72" as="geometry" />
+        <mxCell id="UDE9wlmH0UndHr5xgx2V-17" value="&lt;b&gt;Note:&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Create a topic when user create a page.&lt;br&gt;&amp;nbsp;- User join to a page ,that mean user subscribe to the page-topic." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="3512" width="245" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
