@@ -346,6 +346,9 @@
         <mxCell id="kR2G7rtNhkncbjFAT2Cm-17" value="Consumer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-18" value="Producer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
