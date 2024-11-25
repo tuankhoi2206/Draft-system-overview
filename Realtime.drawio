@@ -376,10 +376,10 @@
         <mxCell id="kR2G7rtNhkncbjFAT2Cm-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;note&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;migrationRoutingOrWorkStation&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="495" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kR2G7rtNhkncbjFAT2Cm-29" value="site.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-29" value="line.migration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="820" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kR2G7rtNhkncbjFAT2Cm-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kR2G7rtNhkncbjFAT2Cm-1">
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kR2G7rtNhkncbjFAT2Cm-1" target="kR2G7rtNhkncbjFAT2Cm-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="485" as="sourcePoint" />
             <mxPoint x="410" y="850" as="targetPoint" />
