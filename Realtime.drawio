@@ -361,6 +361,12 @@
         <mxCell id="kR2G7rtNhkncbjFAT2Cm-22" value="Step 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="250" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.417;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="kR2G7rtNhkncbjFAT2Cm-19" target="kR2G7rtNhkncbjFAT2Cm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
+            <mxPoint x="410" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
