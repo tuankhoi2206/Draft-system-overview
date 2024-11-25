@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RIqtzEr7J9UPfiwPz6n3" name="Import_PO">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,18 @@
         </mxCell>
         <mxCell id="kR2G7rtNhkncbjFAT2Cm-18" value="Producer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-19" value="production-order.integration.queue&lt;div&gt;po.integration.queue&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.389;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kR2G7rtNhkncbjFAT2Cm-10" target="kR2G7rtNhkncbjFAT2Cm-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kR2G7rtNhkncbjFAT2Cm-22" value="Step 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
