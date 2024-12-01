@@ -438,7 +438,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfc_-wuIn892OLY24f11" name="Kafka">
-    <mxGraphModel dx="934" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,6 +491,9 @@
         </mxCell>
         <mxCell id="eqnCDEwJfYTd_4u_SrbU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eqnCDEwJfYTd_4u_SrbU-5" target="eqnCDEwJfYTd_4u_SrbU-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-19" value="test-topic" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
