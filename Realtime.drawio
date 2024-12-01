@@ -458,7 +458,7 @@
           <mxGeometry x="35" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eqnCDEwJfYTd_4u_SrbU-5" value="Partitioner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqnCDEwJfYTd_4u_SrbU-7" value="Apple" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
           <mxGeometry x="95" y="290" width="50" height="30" as="geometry" />
@@ -477,6 +477,9 @@
         </mxCell>
         <mxCell id="eqnCDEwJfYTd_4u_SrbU-12" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="291" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-15" value="Send to test-topic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
