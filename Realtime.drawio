@@ -536,6 +536,9 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-19" value="Type ROUTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fhbm8cx48xNDydKe2bBz-3">
           <mxGeometry x="77.5" y="293" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fhbm8cx48xNDydKe2bBz-20" value="migrationRouting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fhbm8cx48xNDydKe2bBz-3">
+          <mxGeometry x="70" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="110" as="sourcePoint" />
