@@ -561,13 +561,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-15" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Master Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="20" width="230" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-16" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="fhbm8cx48xNDydKe2bBz-15">
-          <mxGeometry x="390" y="40" width="225" height="60" as="geometry" />
+          <mxGeometry x="1010" y="30" width="230" height="520" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-17" value="validate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fhbm8cx48xNDydKe2bBz-15">
           <mxGeometry x="70" y="170" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhbm8cx48xNDydKe2bBz-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="833" y="360" as="sourcePoint" />
+            <mxPoint x="1010" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
