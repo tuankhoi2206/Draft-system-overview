@@ -599,6 +599,9 @@
             <mxPoint x="1020" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fhbm8cx48xNDydKe2bBz-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note&lt;/h1&gt;&lt;p&gt;Create routing workstation ???&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="530" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
