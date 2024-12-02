@@ -437,6 +437,9 @@
         <mxCell id="Ay0du0p-FS3Qbl0bBF3F-1" value="Integration Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rtugQY44bEt7oiMgm4Ym-1" value="Grid Hermes" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="930" height="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
