@@ -575,8 +575,8 @@
             <mxPoint x="940" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-21" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Master Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="50" width="230" height="520" as="geometry" />
+        <mxCell id="fhbm8cx48xNDydKe2bBz-21" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Execution Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="41" width="230" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
