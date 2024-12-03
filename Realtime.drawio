@@ -522,7 +522,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-2" value="SAP" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="20" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="-90" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Integration Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="40" width="230" height="520" as="geometry" />
@@ -539,7 +539,7 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-14" value="V&lt;span style=&quot;background-color: initial;&quot;&gt;alidate&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="70" y="170" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="fhbm8cx48xNDydKe2bBz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="110" as="sourcePoint" />
             <mxPoint x="210" y="110" as="targetPoint" />
