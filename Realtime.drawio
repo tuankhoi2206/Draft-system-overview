@@ -584,19 +584,19 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-27" value="CreateRouting&lt;div&gt;GenerateRoutingWorkstation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fhbm8cx48xNDydKe2bBz-21">
           <mxGeometry x="60" y="449" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fhbm8cx48xNDydKe2bBz-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="520" as="sourcePoint" />
+            <mxPoint x="1150" y="640" as="sourcePoint" />
             <mxPoint x="1430" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-24" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="225" height="60" as="geometry" />
+          <mxGeometry x="940" y="520" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fhbm8cx48xNDydKe2bBz-24">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="420" as="sourcePoint" />
-            <mxPoint x="1020" y="380" as="targetPoint" />
+            <mxPoint x="1030" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note&lt;/h1&gt;&lt;p&gt;Create routing workstation ???&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
