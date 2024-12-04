@@ -575,7 +575,7 @@
           <mxGeometry x="940" y="40" width="190" height="460" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;check site available&lt;/div&gt;&lt;div&gt;validateMrpController if MessageTypeEnum.PRODUCTION_ORDER&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fhbm8cx48xNDydKe2bBz-15" vertex="1">
-          <mxGeometry x="30" y="301" width="140" height="30" as="geometry" />
+          <mxGeometry x="30" y="323" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
