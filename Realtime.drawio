@@ -574,7 +574,7 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-15" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Master Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="40" width="190" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Update routing&lt;/div&gt;&lt;div&gt;MigrateRoutingToExecution&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fhbm8cx48xNDydKe2bBz-15" vertex="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;check site available&lt;/div&gt;&lt;div&gt;Update routing&lt;/div&gt;&lt;div&gt;MigrateRoutingToExecution&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fhbm8cx48xNDydKe2bBz-15" vertex="1">
           <mxGeometry x="50" y="301" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
