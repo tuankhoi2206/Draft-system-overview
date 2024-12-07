@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="6">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2011" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -450,62 +450,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfc_-wuIn892OLY24f11" name="Kafka">
-    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-1" value="Sending Message with Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-1" value="Sending Message with Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="50" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqnCDEwJfYTd_4u_SrbU-2" target="eqnCDEwJfYTd_4u_SrbU-5">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eqnCDEwJfYTd_4u_SrbU-2" target="eqnCDEwJfYTd_4u_SrbU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-2" value="Kafka Producer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-2" value="Kafka Producer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-3" value="Apple" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-3" value="Apple" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="95" y="220" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-4" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-4" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-5" value="Partitioner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-5" value="Partitioner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-7" value="Apple" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-7" value="Apple" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="95" y="290" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-8" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-8" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-9" value="Adam" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-9" value="Adam" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="220" y="220" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-10" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-10" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-11" value="Angel" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-11" value="Angel" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="220" y="290" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-12" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-12" value="Key: A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="291" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-15" value="Send to test-topic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-15" value="Send to test-topic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 0&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 2&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 3&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 0&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 2&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Partition 3&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="690" y="120" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eqnCDEwJfYTd_4u_SrbU-16">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="eqnCDEwJfYTd_4u_SrbU-16" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eqnCDEwJfYTd_4u_SrbU-5" target="eqnCDEwJfYTd_4u_SrbU-16">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eqnCDEwJfYTd_4u_SrbU-5" target="eqnCDEwJfYTd_4u_SrbU-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eqnCDEwJfYTd_4u_SrbU-19" value="test-topic" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="eqnCDEwJfYTd_4u_SrbU-19" value="test-topic" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="80" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="q7e4akKdSTeSEj2XNUzr-2" value="Broker&lt;div&gt;&lt;span style=&quot;font-family: ProximaNova, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Broker là Apache Kafka server, là cầu nối giữa Message Publisher và Message Consumer, giúp chúng có thể trao đổi message với nhau&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="370" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
