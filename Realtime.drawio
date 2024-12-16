@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yk3a63ZN6EnvVQoyG8kq" name="[GRID] Import Route">
-    <mxGraphModel dx="1884" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,25 +643,22 @@
         <mxCell id="c_NDj37uV_rQrwBs6cnd-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;setTemplateAssociation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;check site available&lt;/span&gt;&lt;/div&gt;&lt;div&gt;validateMrpController if MessageTypeEnum.PRODUCTION_ORDER&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-250" y="550" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-1" value="routing.migration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="602" y="630" width="235" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-2" value="routing.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sV8zYX8L8hHRG387hT32-2" value="routing.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="602" y="740" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sV8zYX8L8hHRG387hT32-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="760" as="sourcePoint" />
             <mxPoint x="835" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sV8zYX8L8hHRG387hT32-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="760" as="sourcePoint" />
             <mxPoint x="1520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sV8zYX8L8hHRG387hT32-2" target="fhbm8cx48xNDydKe2bBz-3">
+        <mxCell id="sV8zYX8L8hHRG387hT32-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sV8zYX8L8hHRG387hT32-2" target="fhbm8cx48xNDydKe2bBz-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="650" as="sourcePoint" />
             <mxPoint x="640" y="600" as="targetPoint" />
