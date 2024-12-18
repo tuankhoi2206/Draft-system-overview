@@ -528,7 +528,7 @@
           <mxGeometry x="-90" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Integration Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="210" y="40" width="230" height="570" as="geometry" />
+          <mxGeometry x="210" y="40" width="230" height="640" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-4" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="390" y="40" width="225" height="60" as="geometry" />
@@ -666,6 +666,14 @@
               <mxPoint x="325" y="770" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qEWIZY_4daUVVuAUBMiY-2" value="routingHandlerDto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sV8zYX8L8hHRG387hT32-7">
+          <mxGeometry x="-0.0245" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEWIZY_4daUVVuAUBMiY-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
