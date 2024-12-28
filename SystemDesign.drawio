@@ -595,6 +595,24 @@
             <mxGeometry x="1091" y="10" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="520" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-14" value="Boker 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="550" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-15" value="Boker 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="550" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-16" value="Boker 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="640" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-17" value="Boker 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="730" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgSSZ5mRu8UMavJwUoje-18" value="Kafka cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
