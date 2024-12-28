@@ -554,7 +554,7 @@
           <mxGeometry x="700" y="261" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpUd6Ngf91eks7bgt8b4-2" value="log.dirs=/tmp/kafka-logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="276" width="145" height="30" as="geometry" />
+          <mxGeometry x="500" y="276" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
