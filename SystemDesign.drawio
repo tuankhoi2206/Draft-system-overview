@@ -590,6 +590,11 @@
             <mxPoint x="1010" y="109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="https://www.youtube.com/watch?v=a7lmP5hdgB0" link="https://www.youtube.com/watch?v=a7lmP5hdgB0" id="GgSSZ5mRu8UMavJwUoje-12">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="1091" y="10" width="300" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
