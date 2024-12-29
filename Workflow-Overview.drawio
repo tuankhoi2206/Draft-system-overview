@@ -956,7 +956,7 @@
         <mxCell id="o14LYaUIAr4uqemfk1gF-27" value="Email and Phone Number Input" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-2">
           <mxGeometry x="347.58" y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o14LYaUIAr4uqemfk1gF-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-1">
+        <mxCell id="o14LYaUIAr4uqemfk1gF-3" value="Onboarding service" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-1">
           <mxGeometry y="540" width="1470" height="290" as="geometry" />
         </mxCell>
         <mxCell id="o14LYaUIAr4uqemfk1gF-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-1">
