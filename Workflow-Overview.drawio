@@ -959,8 +959,23 @@
         <mxCell id="o14LYaUIAr4uqemfk1gF-3" value="Onboarding service" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-1">
           <mxGeometry y="540" width="1470" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="o14LYaUIAr4uqemfk1gF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o14LYaUIAr4uqemfk1gF-3" source="o14LYaUIAr4uqemfk1gF-29" target="o14LYaUIAr4uqemfk1gF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o14LYaUIAr4uqemfk1gF-29" value="&lt;font style=&quot;font-size: 10px&quot;&gt;POST&lt;br&gt;/onboarding-session/init&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-3">
+          <mxGeometry x="829.9999999999999" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o14LYaUIAr4uqemfk1gF-30" value="&lt;font style=&quot;font-size: 10px&quot;&gt;onboarding_session&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-3">
+          <mxGeometry x="670.88" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o14LYaUIAr4uqemfk1gF-31" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Additional data required to pass&lt;br&gt;* agreeTnCCode&lt;br&gt;* agreeTnCVersion&amp;nbsp; (value hardcoded sprint 1)&lt;br&gt;* agreeTnCTimestamp&lt;br&gt;* agreeReceiveInfo&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;fontColor=#FF0000;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-3">
+          <mxGeometry x="829.9999999999999" y="140" width="150" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="o14LYaUIAr4uqemfk1gF-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="o14LYaUIAr4uqemfk1gF-1">
           <mxGeometry y="830" width="1470" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="o14LYaUIAr4uqemfk1gF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o14LYaUIAr4uqemfk1gF-1" source="o14LYaUIAr4uqemfk1gF-17" target="o14LYaUIAr4uqemfk1gF-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
