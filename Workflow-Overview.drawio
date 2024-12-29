@@ -597,7 +597,7 @@
         <mxCell id="dHnIcNUpgb0iLxbi9Fdl-1" value="Hermes - Import PO" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1560" width="720" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="dHnIcNUpgb0iLxbi9Fdl-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dHnIcNUpgb0iLxbi9Fdl-1">
+        <mxCell id="dHnIcNUpgb0iLxbi9Fdl-2" value="ActiveMQ" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dHnIcNUpgb0iLxbi9Fdl-1">
           <mxGeometry y="20" width="720" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dHnIcNUpgb0iLxbi9Fdl-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dHnIcNUpgb0iLxbi9Fdl-1">
