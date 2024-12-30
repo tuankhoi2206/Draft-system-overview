@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Grid] Import PO Sequence Diagram" id="VnGkhV_CYSaa1oPFoi6E">
-    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zePXubJYUfL3620oGM6k-0" />
         <mxCell id="zePXubJYUfL3620oGM6k-1" parent="zePXubJYUfL3620oGM6k-0" />
@@ -771,7 +771,7 @@
             <mxPoint x="530" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZQNVIE2uNxItAIUBI7H-0" value="Hermes - Import PO" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zePXubJYUfL3620oGM6k-1">
+        <mxCell id="JZQNVIE2uNxItAIUBI7H-0" value="Hermes - Import PO" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zePXubJYUfL3620oGM6k-1">
           <mxGeometry x="280" y="90" width="1340" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="JZQNVIE2uNxItAIUBI7H-1" value="Sender&amp;nbsp;&lt;div&gt;SAP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
