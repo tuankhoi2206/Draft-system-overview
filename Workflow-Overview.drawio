@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Grid] Import PO Sequence Diagram" id="VnGkhV_CYSaa1oPFoi6E">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zePXubJYUfL3620oGM6k-0" />
         <mxCell id="zePXubJYUfL3620oGM6k-1" parent="zePXubJYUfL3620oGM6k-0" />
@@ -784,6 +784,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="368" y="982" as="sourcePoint" />
             <mxPoint x="372" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1b9VMtJu_Cabq3vKrESB-0" value="Master Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry x="600" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1b9VMtJu_Cabq3vKrESB-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="658" y="982" as="sourcePoint" />
+            <mxPoint x="662" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZQNVIE2uNxItAIUBI7H-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zePXubJYUfL3620oGM6k-1" target="JZQNVIE2uNxItAIUBI7H-1">
