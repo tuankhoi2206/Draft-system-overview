@@ -775,7 +775,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MT-b4Os53iwTcCG6RzyW-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;" parent="JZQNVIE2uNxItAIUBI7H-0" vertex="1">
-          <mxGeometry x="655" y="730" width="10" height="80" as="geometry" />
+          <mxGeometry x="655" y="730" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MT-b4Os53iwTcCG6RzyW-37" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="JZQNVIE2uNxItAIUBI7H-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -791,6 +791,9 @@
         </mxCell>
         <mxCell id="0inIz1uDzlJXCeNYZXk7-0" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;production-order.integration.queue&lt;/span&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;po.integration.queue&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="JZQNVIE2uNxItAIUBI7H-0" vertex="1">
           <mxGeometry x="570" y="680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K60TSxLWKpioYKcafnup-0" value="Event Broker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry x="679" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZQNVIE2uNxItAIUBI7H-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zePXubJYUfL3620oGM6k-1" target="JZQNVIE2uNxItAIUBI7H-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
