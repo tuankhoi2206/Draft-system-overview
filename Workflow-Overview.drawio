@@ -763,9 +763,6 @@
         <mxCell id="zePXubJYUfL3620oGM6k-37" value="site.migration.queue&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="zePXubJYUfL3620oGM6k-36">
           <mxGeometry x="280" y="55" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zePXubJYUfL3620oGM6k-38" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:336pt&quot; width=&quot;447&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.5pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.5pt;width:336pt&quot; width=&quot;447&quot; height=&quot;19&quot;&gt;site.migration.queue&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" vertex="1" parent="zePXubJYUfL3620oGM6k-1">
-          <mxGeometry x="602" y="325" width="225" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zePXubJYUfL3620oGM6k-39" value="site.migration.queue&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="zePXubJYUfL3620oGM6k-1">
           <mxGeometry x="850" y="3005" width="250" height="80" as="geometry" />
         </mxCell>
@@ -773,6 +770,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="2060" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JZQNVIE2uNxItAIUBI7H-0" value="Hermes - Import PO" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zePXubJYUfL3620oGM6k-1">
+          <mxGeometry x="280" y="90" width="1340" height="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
