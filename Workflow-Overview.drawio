@@ -613,7 +613,7 @@
           <mxGeometry x="210" y="2420" width="1370" height="190" as="geometry" />
         </mxCell>
         <mxCell id="WAsbjwW2KHC6cr2tJUew-3" value="site.migration.queue&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="NJDUhVr9ivH2cc1Wi6aJ-1">
-          <mxGeometry x="260" y="60" width="200" height="80" as="geometry" />
+          <mxGeometry x="280" y="55" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WAsbjwW2KHC6cr2tJUew-1" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:336pt&quot; width=&quot;447&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.5pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.5pt;width:336pt&quot; width=&quot;447&quot; height=&quot;19&quot;&gt;site.migration.queue&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="602" y="325" width="225" height="60" as="geometry" />
@@ -621,7 +621,7 @@
         <mxCell id="WAsbjwW2KHC6cr2tJUew-2" value="site.migration.queue&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="850" y="3005" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-N7VvFtCo2yQW5EREZJK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-N7VvFtCo2yQW5EREZJK-1" target="WAsbjwW2KHC6cr2tJUew-3">
+        <mxCell id="-N7VvFtCo2yQW5EREZJK-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-N7VvFtCo2yQW5EREZJK-1" target="WAsbjwW2KHC6cr2tJUew-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="2060" as="targetPoint" />
           </mxGeometry>
