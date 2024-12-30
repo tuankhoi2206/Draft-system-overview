@@ -838,6 +838,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BX1upFbkTP-mI4C_A7XR-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry x="655" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BX1upFbkTP-mI4C_A7XR-6" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;site.handler.queue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry x="600" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="JZQNVIE2uNxItAIUBI7H-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zePXubJYUfL3620oGM6k-1" target="JZQNVIE2uNxItAIUBI7H-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="1070" as="sourcePoint" />
@@ -853,6 +859,12 @@
         <mxCell id="oZEkVVIiKR4tOiOic0sY-0" value="&lt;div style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;POST&lt;/div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;/integrations/production-orders&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g6otP9G1deUaVsL1Jr6s-2">
           <mxGeometry x="-0.1692" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BX1upFbkTP-mI4C_A7XR-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="zePXubJYUfL3620oGM6k-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="500" as="sourcePoint" />
+            <mxPoint x="950" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
