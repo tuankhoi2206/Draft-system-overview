@@ -618,7 +618,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Du-5-9WouE0G53RS1YqO" name="Authen">
-    <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,8 +628,8 @@
         <mxCell id="lxLdOQvmoHosbvRfJ4kX-3" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="80" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="lxLdOQvmoHosbvRfJ4kX-4" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="lxLdOQvmoHosbvRfJ4kX-4" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lxLdOQvmoHosbvRfJ4kX-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -637,8 +637,8 @@
             <mxPoint x="830" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxLdOQvmoHosbvRfJ4kX-6" value="Client will receive the token after successful login in a header/query string etc&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="240" height="40" as="geometry" />
+        <mxCell id="lxLdOQvmoHosbvRfJ4kX-6" value="Client will receive the token after successful login in a header/query string etc&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="123" width="260" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
