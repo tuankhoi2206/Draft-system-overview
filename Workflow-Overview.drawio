@@ -331,10 +331,10 @@
           <mxGeometry x="-90" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Integration Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="210" y="40" width="230" height="640" as="geometry" />
+          <mxGeometry x="210" y="40" width="630" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-4" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
-          <mxGeometry x="390" y="40" width="225" height="60" as="geometry" />
+        <mxCell id="fhbm8cx48xNDydKe2bBz-4" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
+          <mxGeometry x="390" y="40" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-19" value="Type ROUTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="50" y="293" width="120" height="47" as="geometry" />
@@ -362,7 +362,7 @@
             <mxPoint x="600" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-8" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:336pt&quot; width=&quot;447&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.5pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.5pt;width:336pt&quot; width=&quot;447&quot; height=&quot;19&quot;&gt;site.migration.queue&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-8" value="&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;447&quot; style=&quot;border-collapse:&lt;br/&gt; collapse;width:336pt&quot;&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; width=&quot;447&quot; style=&quot;height:14.5pt;width:336pt&quot;&gt;site.migration.queue&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="602" y="325" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -371,7 +371,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.539;entryY=1.078;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fhbm8cx48xNDydKe2bBz-4" edge="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fhbm8cx48xNDydKe2bBz-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="240" as="sourcePoint" />
             <mxPoint x="520" y="270" as="targetPoint" />
@@ -401,7 +401,7 @@
             <mxPoint x="1430" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-24" value="routing.migration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-24" value="routing.migration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="530" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note&lt;/h1&gt;&lt;p&gt;Create routing workstation ???&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -410,7 +410,7 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;question&lt;/h1&gt;&lt;div&gt;&amp;nbsp;- Rule update routing&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1750" y="40" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RC8ZPXSesCCqCN-3KAuJ-1" value="site.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="RC8ZPXSesCCqCN-3KAuJ-1" value="site.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="602" y="430" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RC8ZPXSesCCqCN-3KAuJ-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
