@@ -331,10 +331,10 @@
           <mxGeometry x="-90" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Integration Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="210" y="40" width="630" height="640" as="geometry" />
+          <mxGeometry x="210" y="40" width="230" height="640" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-4" value="routing.integration.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
-          <mxGeometry x="390" y="40" width="240" height="60" as="geometry" />
+          <mxGeometry x="390" y="40" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-19" value="Type ROUTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="50" y="293" width="120" height="47" as="geometry" />
@@ -371,10 +371,10 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fhbm8cx48xNDydKe2bBz-4" edge="1">
+        <mxCell id="fhbm8cx48xNDydKe2bBz-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="240" as="sourcePoint" />
-            <mxPoint x="520" y="270" as="targetPoint" />
+            <mxPoint x="721" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-15" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Master Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
