@@ -446,7 +446,7 @@
         <mxCell id="c_NDj37uV_rQrwBs6cnd-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;setTemplateAssociation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;check site available&lt;/span&gt;&lt;/div&gt;&lt;div&gt;validateMrpController if MessageTypeEnum.PRODUCTION_ORDER&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-250" y="550" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-2" value="routing.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="sV8zYX8L8hHRG387hT32-2" value="routing.handler.queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="602" y="740" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sV8zYX8L8hHRG387hT32-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
