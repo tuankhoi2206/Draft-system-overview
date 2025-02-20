@@ -807,13 +807,13 @@
             <mxPoint x="860" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6otP9G1deUaVsL1Jr6s-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="zePXubJYUfL3620oGM6k-1" edge="1">
+        <mxCell id="g6otP9G1deUaVsL1Jr6s-2" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="zePXubJYUfL3620oGM6k-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="650" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZEkVVIiKR4tOiOic0sY-0" value="&lt;div style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;POST&lt;/div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;/integrations/production-orders&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g6otP9G1deUaVsL1Jr6s-2" vertex="1" connectable="0">
+        <mxCell id="oZEkVVIiKR4tOiOic0sY-0" value="&lt;div style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;POST&lt;/div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;/integrations/production-orders&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="g6otP9G1deUaVsL1Jr6s-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1692" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
