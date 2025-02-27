@@ -1008,8 +1008,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2DAKwn_Y_e8puFUd6Sh8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2DAKwn_Y_e8puFUd6Sh8-1" target="2DAKwn_Y_e8puFUd6Sh8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2DAKwn_Y_e8puFUd6Sh8-1" value="time-attendance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2DAKwn_Y_e8puFUd6Sh8-2" value="execution service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2DAKwn_Y_e8puFUd6Sh8-3" value="job ApplyInspectionGroupJob" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
