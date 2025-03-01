@@ -804,8 +804,8 @@
         <mxCell id="DJcLdU1VP5IFoP6OeLHY-1" value="validateLine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=none;textShadow=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="JZQNVIE2uNxItAIUBI7H-0" vertex="1">
           <mxGeometry x="949" y="570" width="191" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8jhyf7yq2ogM_2b9cBaP-0" value="migrationRoutingOrWorkStation&lt;div&gt;update line -&amp;nbsp;MrpController&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=none;textShadow=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
-          <mxGeometry x="679" y="520" width="191" height="50" as="geometry" />
+        <mxCell id="8jhyf7yq2ogM_2b9cBaP-1" value="migrationWorkStation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=none;textShadow=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="JZQNVIE2uNxItAIUBI7H-0">
+          <mxGeometry x="720" y="530" width="191" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JZQNVIE2uNxItAIUBI7H-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zePXubJYUfL3620oGM6k-1" target="JZQNVIE2uNxItAIUBI7H-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
