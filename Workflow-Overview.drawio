@@ -726,7 +726,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MT-b4Os53iwTcCG6RzyW-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;" parent="JZQNVIE2uNxItAIUBI7H-0" vertex="1">
-          <mxGeometry x="655" y="570" width="10" height="80" as="geometry" />
+          <mxGeometry x="655" y="570" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MT-b4Os53iwTcCG6RzyW-28" value="&lt;span style=&quot;&quot;&gt;line.migration.queue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=3;labelBackgroundColor=default;labelBorderColor=none;strokeColor=none;shadow=1;textShadow=0;" parent="JZQNVIE2uNxItAIUBI7H-0" vertex="1">
           <mxGeometry x="600" y="540" width="120" height="30" as="geometry" />
