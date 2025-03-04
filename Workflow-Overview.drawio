@@ -1036,15 +1036,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S85AFi_y7WGSkcbauamH" name="Page-9">
-    <mxGraphModel dx="1034" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i1tByHiH3byJJBYMOLBc-1" value="10 %&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i1tByHiH3byJJBYMOLBc-1" value="10 %&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="190" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i1tByHiH3byJJBYMOLBc-2" value="87%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i1tByHiH3byJJBYMOLBc-2" value="87%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="40" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NZVUEKrM2uAbviEGNzGo-1" value="startBreakTimeScheduled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZVUEKrM2uAbviEGNzGo-2" value="endShiftScheduled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZVUEKrM2uAbviEGNzGo-3" value="endBreakTimeScheduled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZVUEKrM2uAbviEGNzGo-4" value="clockOffWhenShiftTimeEndScheduled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
