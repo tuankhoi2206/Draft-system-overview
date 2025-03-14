@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yk3a63ZN6EnvVQoyG8kq" name="[GRID] Import Route">
-    <mxGraphModel dx="1884" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,10 +378,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-15" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Master Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="40" width="190" height="460" as="geometry" />
+          <mxGeometry x="940" y="40" width="240" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="fhbm8cx48xNDydKe2bBz-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;setTemplateAssociation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;check site available&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-15" vertex="1">
-          <mxGeometry x="30" y="300" width="140" height="130" as="geometry" />
+        <mxCell id="fhbm8cx48xNDydKe2bBz-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;setTemplatePOAssociation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;setTemplateOPAssociation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;check site available&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-15" vertex="1">
+          <mxGeometry x="30" y="300" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -471,9 +471,6 @@
           <mxGeometry x="-0.0245" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qEWIZY_4daUVVuAUBMiY-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="990" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
