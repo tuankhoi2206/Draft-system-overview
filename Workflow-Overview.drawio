@@ -342,7 +342,7 @@
         <mxCell id="fhbm8cx48xNDydKe2bBz-14" value="&lt;div&gt;checkSite&lt;/div&gt;&lt;div&gt;setSiteFromSitecode&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;create routing&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="50" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RC8ZPXSesCCqCN-3KAuJ-5" value="migrationRoutingOrWorkStation&lt;div&gt;updateRouting&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
+        <mxCell id="RC8ZPXSesCCqCN-3KAuJ-5" value="&lt;div&gt;getRoutingByTransactionId&lt;/div&gt;migrationRoutingOrWorkStation&lt;div&gt;updateRouting&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fhbm8cx48xNDydKe2bBz-3" vertex="1">
           <mxGeometry x="40.5" y="400" width="189.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fhbm8cx48xNDydKe2bBz-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -458,10 +458,10 @@
             <mxPoint x="1520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV8zYX8L8hHRG387hT32-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sV8zYX8L8hHRG387hT32-2" target="fhbm8cx48xNDydKe2bBz-3" edge="1">
+        <mxCell id="sV8zYX8L8hHRG387hT32-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sV8zYX8L8hHRG387hT32-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="650" as="sourcePoint" />
-            <mxPoint x="640" y="600" as="targetPoint" />
+            <mxPoint x="325" y="680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="325" y="770" />
             </Array>
