@@ -955,6 +955,9 @@
         <mxCell id="kJ-7q1xOqM8qectUqOMS-2" value="Execution Service" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="kJ-7q1xOqM8qectUqOMS-5" value="syncUpdateElementMaster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kJ-7q1xOqM8qectUqOMS-2">
+          <mxGeometry x="70" y="75" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
