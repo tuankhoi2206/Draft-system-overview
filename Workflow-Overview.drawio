@@ -1105,6 +1105,23 @@
         <mxCell id="QgXe2ChtUTLLE803HojM-39" value="Intergration inteface Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QgXe2ChtUTLLE803HojM-0">
           <mxGeometry x="639.5" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QgXe2ChtUTLLE803HojM-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QgXe2ChtUTLLE803HojM-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.5" y="240" as="sourcePoint" />
+            <mxPoint x="909.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgXe2ChtUTLLE803HojM-41" value="&lt;div style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QgXe2ChtUTLLE803HojM-40">
+          <mxGeometry x="-0.1692" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgXe2ChtUTLLE803HojM-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QgXe2ChtUTLLE803HojM-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697.5" y="880" as="sourcePoint" />
+            <mxPoint x="701.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
